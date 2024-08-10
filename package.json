@@ -1,4 +1,10 @@
 {
+  "name": "encrypt-adyen",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
   "dependencies": {
     "adyen-cse-js": "^0.1.19",
     "express": "^4.19.2",
