@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "adyen-cse-js": "^0.1.19",
+    "express": "^4.19.2",
+    "jsdom": "^24.1.1"
+  }
+}
